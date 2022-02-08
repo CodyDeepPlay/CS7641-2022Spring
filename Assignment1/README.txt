@@ -1,0 +1,13 @@
+This file is describing the necessary files or steps needed to run the code for assignment 1 for CS7641 Spring 2022.
+
+## List of files
+
+### 'data' folder
+Contains the data that is needed to run the experiment. The folder contains both MINIST dataset and Wine quality dataset. 
+
+### 'Assignment1.py'
+This python file contains the code to run the experiments for the following algorithms, Decision Trees, Neural Networks, Boosting, SVM and KNN. The code is based on sklearn, so users might need to install scikit learn before get started.
+
+
+## Get started.
+Install scikit-learn module first. Run the file 'Assignment1.py'.
