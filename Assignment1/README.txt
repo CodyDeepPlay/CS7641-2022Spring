@@ -1,4 +1,6 @@
 This file is describing the necessary files and steps needed to run the code for assignment 1 for CS7641 Spring 2022.
+Please refer to the github repository here for these files.
+https://github.com/CodyDeepPlay/CS7641-2022Spring/tree/main/Assignment1
 
 ## List of files
 
@@ -13,3 +15,4 @@ Report describing the results and analysis for the experiments ran in assignment
 
 ## Get started.
 Install scikit-learn module first. Run the file 'Assignment1.py'.
+
