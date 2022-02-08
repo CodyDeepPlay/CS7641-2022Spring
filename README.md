@@ -1,2 +1,2 @@
 # CS7641-2022Spring
-Host my HW for CS7641.
+Host my HWs for CS7641.
